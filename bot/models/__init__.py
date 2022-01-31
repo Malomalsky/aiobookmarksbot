@@ -1,0 +1,1 @@
+from . import bookmarck_schema
